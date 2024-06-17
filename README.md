@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Two Pointers
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/soundpost1682/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/soundpost1682/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 # Tree
 |  |
@@ -49,3 +50,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/soundpost1682/leetcode/tree/master/0100-same-tree) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/soundpost1682/leetcode/tree/master/0633-sum-of-square-numbers) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/soundpost1682/leetcode/tree/master/0633-sum-of-square-numbers) |
