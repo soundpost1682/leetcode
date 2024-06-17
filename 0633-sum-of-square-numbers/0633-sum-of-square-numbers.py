@@ -6,7 +6,7 @@ class Solution:
                 return True
             elif l*l + r*r > c:
                 r -=1
-            elif l*l + r*r < c:
+            else: 
                 l +=1
         
         
