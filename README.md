@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/soundpost1682/leetcode/tree/master/0330-patching-array) |
+| [0853-most-profit-assigning-work](https://github.com/soundpost1682/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/soundpost1682/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/soundpost1682/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/soundpost1682/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -13,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/soundpost1682/leetcode/tree/master/0330-patching-array) |
+| [0853-most-profit-assigning-work](https://github.com/soundpost1682/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/soundpost1682/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/soundpost1682/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
 | ------- |
+| [0853-most-profit-assigning-work](https://github.com/soundpost1682/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/soundpost1682/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/soundpost1682/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/soundpost1682/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -33,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/soundpost1682/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/soundpost1682/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/soundpost1682/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 # Tree
 |  |
@@ -58,3 +62,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/soundpost1682/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/soundpost1682/leetcode/tree/master/0853-most-profit-assigning-work) |
