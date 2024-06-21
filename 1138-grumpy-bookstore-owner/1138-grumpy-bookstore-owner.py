@@ -1,21 +1,13 @@
 class Solution:
     def maxSatisfied(self, customers: List[int], grumpy: List[int], minutes: int) -> int:
-        answer =0
+        M = S = tmp = 0
         for i in range(len(customers)):
-            if grumpy[i] == 0:
-                answer += customers[i]
+            if not grumpy[i]:
+                S += customers[i]
+                customers[i] =0
+            else: tmp += customers[i]
+            if i >= minutes: 
+                tmp -= customers[i-minutes]
+            M = max(M, tmp)
+        return S+M
         
-        no = 0
-        for i in range(minutes):
-            if grumpy[i] ==1:
-                no += customers[i]
-        
-        m = no
-        for i in range(minutes, len(customers)):
-            if grumpy[i - minutes] ==1:
-                no -= customers[i - minutes]
-            if grumpy[i] == 1:
-                no += customers[i]
-            m = max(m, no)
-        return answer + m
-
