@@ -77,3 +77,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/soundpost1682/leetcode/tree/master/1138-grumpy-bookstore-owner) |
+# String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/soundpost1682/leetcode/tree/master/0014-longest-common-prefix) |
+# Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/soundpost1682/leetcode/tree/master/0014-longest-common-prefix) |
