@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soundpost1682/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/soundpost1682/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/soundpost1682/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/soundpost1682/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/soundpost1682/leetcode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soundpost1682/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0394-decode-string](https://github.com/soundpost1682/leetcode/tree/master/0394-decode-string) |
 # Trie
 |  |
@@ -98,3 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/soundpost1682/leetcode/tree/master/0394-decode-string) |
+# String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soundpost1682/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
