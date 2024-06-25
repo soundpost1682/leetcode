@@ -52,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/soundpost1682/leetcode/tree/master/0100-same-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/soundpost1682/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/soundpost1682/leetcode/tree/master/0100-same-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/soundpost1682/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/soundpost1682/leetcode/tree/master/0100-same-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/soundpost1682/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Math
 |  |
 | ------- |
@@ -104,3 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soundpost1682/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/soundpost1682/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
