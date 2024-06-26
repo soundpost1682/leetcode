@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/soundpost1682/leetcode/tree/master/0330-patching-array) |
 | [0853-most-profit-assigning-work](https://github.com/soundpost1682/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/soundpost1682/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/soundpost1682/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/soundpost1682/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
@@ -53,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/soundpost1682/leetcode/tree/master/0100-same-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/soundpost1682/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/soundpost1682/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/soundpost1682/leetcode/tree/master/0100-same-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/soundpost1682/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/soundpost1682/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/soundpost1682/leetcode/tree/master/0100-same-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/soundpost1682/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/soundpost1682/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Math
 |  |
 | ------- |
@@ -111,3 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/soundpost1682/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/soundpost1682/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/soundpost1682/leetcode/tree/master/1285-balance-a-binary-search-tree) |
