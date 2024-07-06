@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/soundpost1682/leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2645-pass-the-pillow](https://github.com/soundpost1682/leetcode/tree/master/2645-pass-the-pillow) |
 ## Two Pointers
 |  |
 | ------- |
@@ -202,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/soundpost1682/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/soundpost1682/leetcode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
