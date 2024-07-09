@@ -1,7 +1,10 @@
 class Solution:
     def averageWaitingTime(self, customers: List[List[int]]) -> float:
-        a=b=0
+        ar=[]
+        tmp =0
         for i, j in customers:
-            a = max(a, i) + j
-            b += a - i
-        return b / len(customers)
+            if i > tmp : tmp = i+j
+            else: tmp += j
+            ar.append(tmp-i)
+        return sum(ar) / len(customers)
+        
