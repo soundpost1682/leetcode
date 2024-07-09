@@ -6,5 +6,4 @@ class Solution:
             if i > tmp : tmp = i+j
             else: tmp += j
             ar.append(tmp-i)
-        return sum(ar) / len(customers)
-        
+        return sum(ar) / len(ar)
