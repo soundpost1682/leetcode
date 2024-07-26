@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/soundpost1682/leetcode/tree/master/0134-gas-station) |
+| [0649-dota2-senate](https://github.com/soundpost1682/leetcode/tree/master/0649-dota2-senate) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/soundpost1682/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/soundpost1682/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2379-maximum-total-importance-of-roads](https://github.com/soundpost1682/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -243,11 +244,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/soundpost1682/leetcode/tree/master/0649-dota2-senate) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/soundpost1682/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/soundpost1682/leetcode/tree/master/0242-valid-anagram) |
+| [0649-dota2-senate](https://github.com/soundpost1682/leetcode/tree/master/0649-dota2-senate) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/soundpost1682/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/soundpost1682/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1720-crawler-log-folder](https://github.com/soundpost1682/leetcode/tree/master/1720-crawler-log-folder) |
