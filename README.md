@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/soundpost1682/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2428-equal-row-and-column-pairs](https://github.com/soundpost1682/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2502-sort-the-people](https://github.com/soundpost1682/leetcode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/soundpost1682/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3226-minimum-number-game](https://github.com/soundpost1682/leetcode/tree/master/3226-minimum-number-game) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/soundpost1682/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/soundpost1682/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/soundpost1682/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/soundpost1682/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2502-sort-the-people](https://github.com/soundpost1682/leetcode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/soundpost1682/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
 | ------- |
