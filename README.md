@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/soundpost1682/leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soundpost1682/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/soundpost1682/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/soundpost1682/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/soundpost1682/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2379-maximum-total-importance-of-roads](https://github.com/soundpost1682/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/soundpost1682/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/soundpost1682/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/soundpost1682/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/soundpost1682/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/soundpost1682/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/soundpost1682/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/soundpost1682/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/soundpost1682/leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/soundpost1682/leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soundpost1682/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/soundpost1682/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/soundpost1682/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2428-equal-row-and-column-pairs](https://github.com/soundpost1682/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2502-sort-the-people](https://github.com/soundpost1682/leetcode/tree/master/2502-sort-the-people) |
