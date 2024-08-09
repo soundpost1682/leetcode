@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/soundpost1682/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/soundpost1682/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/soundpost1682/leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/soundpost1682/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/soundpost1682/leetcode/tree/master/3226-minimum-number-game) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/soundpost1682/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/soundpost1682/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/soundpost1682/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2428-equal-row-and-column-pairs](https://github.com/soundpost1682/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2502-sort-the-people](https://github.com/soundpost1682/leetcode/tree/master/2502-sort-the-people) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/soundpost1682/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/soundpost1682/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Matrix
 |  |
