@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/soundpost1682/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2379-maximum-total-importance-of-roads](https://github.com/soundpost1682/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [3226-minimum-number-game](https://github.com/soundpost1682/leetcode/tree/master/3226-minimum-number-game) |
 ## Depth-First Search
@@ -293,17 +294,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/soundpost1682/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/soundpost1682/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/soundpost1682/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/soundpost1682/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/soundpost1682/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/soundpost1682/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1839-decode-xored-array](https://github.com/soundpost1682/leetcode/tree/master/1839-decode-xored-array) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/soundpost1682/leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/soundpost1682/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/soundpost1682/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
