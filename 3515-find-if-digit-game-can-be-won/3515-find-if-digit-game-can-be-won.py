@@ -1,12 +1,5 @@
 class Solution:
     def canAliceWin(self, nums: List[int]) -> bool:
-        a,b=0,0
-        for i in nums:
-            if i > 9:
-                a += i
-            elif i < 10 :
-                b += i
-        if a > b or a < b : return True
-        else: return False
-        
-
+        sing = sum(s for s in nums if s < 10)
+        db = sum(d for d in nums if d > 9)
+        return True if sing > db or sing < db else False
