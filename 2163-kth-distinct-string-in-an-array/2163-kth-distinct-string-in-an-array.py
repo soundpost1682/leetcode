@@ -1,7 +1,10 @@
 class Solution:
     def kthDistinct(self, arr: List[str], k: int) -> str:
-        tmp=[]
+        tmp =Counter(arr)
         for i in arr:
-            if arr.count(i) == 1:
-                tmp.append(i)
-        return '' if k>len(tmp) else tmp[k-1]
+            if tmp[i] == 1:
+                k -=1
+                if k ==0:
+                    return i
+        return ''
+        
