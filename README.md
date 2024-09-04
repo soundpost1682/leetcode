@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soundpost1682/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/soundpost1682/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/soundpost1682/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/soundpost1682/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/soundpost1682/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -373,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/soundpost1682/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/soundpost1682/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
