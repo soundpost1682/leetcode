@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/soundpost1682/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0944-smallest-range-i](https://github.com/soundpost1682/leetcode/tree/master/0944-smallest-range-i) |
 | [1395-minimum-time-visiting-all-points](https://github.com/soundpost1682/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1642-water-bottles](https://github.com/soundpost1682/leetcode/tree/master/1642-water-bottles) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/soundpost1682/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/soundpost1682/leetcode/tree/master/0242-valid-anagram) |
 | [0649-dota2-senate](https://github.com/soundpost1682/leetcode/tree/master/0649-dota2-senate) |
 | [0822-unique-morse-code-words](https://github.com/soundpost1682/leetcode/tree/master/0822-unique-morse-code-words) |
