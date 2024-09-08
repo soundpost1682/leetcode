@@ -1,10 +1,10 @@
 class Solution:
     def convertToTitle(self, columnNumber: int) -> str:
-        alpa = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-        tmp= ''
-        while columnNumber:
-            columnNumber -=1
-            tmp = alpa[columnNumber % 26] + tmp
+        answer =''
+        while columnNumber > 0:
+            columnNumber -= 1
+            tmp = columnNumber % 26
+            answer = chr(65+tmp) + answer
             columnNumber //= 26
-        return tmp
+        return answer
         
