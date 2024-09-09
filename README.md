@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/soundpost1682/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/soundpost1682/leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soundpost1682/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/soundpost1682/leetcode/tree/master/0414-third-maximum-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/soundpost1682/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/soundpost1682/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/soundpost1682/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/soundpost1682/leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/soundpost1682/leetcode/tree/master/0228-summary-ranges) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soundpost1682/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/soundpost1682/leetcode/tree/master/0414-third-maximum-number) |
 | [0822-unique-morse-code-words](https://github.com/soundpost1682/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0890-lemonade-change](https://github.com/soundpost1682/leetcode/tree/master/0890-lemonade-change) |
 | [0944-smallest-range-i](https://github.com/soundpost1682/leetcode/tree/master/0944-smallest-range-i) |
