@@ -1,7 +1,4 @@
 class Solution:
     def detectCapitalUse(self, word: str) -> bool:
-        return (
-            word == word.capitalize() or 
-            word==word.upper() or 
-            word==word.lower()
-        )
+        return word in [word.capitalize(), word.lower(), word.upper()]
+        
