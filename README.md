@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/soundpost1682/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/soundpost1682/leetcode/tree/master/1803-average-waiting-time) |
 | [1839-decode-xored-array](https://github.com/soundpost1682/leetcode/tree/master/1839-decode-xored-array) |
+| [1923-sentence-similarity-iii](https://github.com/soundpost1682/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/soundpost1682/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/soundpost1682/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/soundpost1682/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soundpost1682/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0941-sort-array-by-parity](https://github.com/soundpost1682/leetcode/tree/master/0941-sort-array-by-parity) |
+| [1923-sentence-similarity-iii](https://github.com/soundpost1682/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/soundpost1682/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/soundpost1682/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/soundpost1682/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/soundpost1682/leetcode/tree/master/1651-shuffle-string) |
 | [1720-crawler-log-folder](https://github.com/soundpost1682/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/soundpost1682/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1923-sentence-similarity-iii](https://github.com/soundpost1682/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/soundpost1682/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/soundpost1682/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/soundpost1682/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
