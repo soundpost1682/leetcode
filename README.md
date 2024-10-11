@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/soundpost1682/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/soundpost1682/leetcode/tree/master/0944-smallest-range-i) |
 | [0978-valid-mountain-array](https://github.com/soundpost1682/leetcode/tree/master/0978-valid-mountain-array) |
+| [1002-maximum-width-ramp](https://github.com/soundpost1682/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/soundpost1682/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/soundpost1682/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/soundpost1682/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/soundpost1682/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/soundpost1682/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/soundpost1682/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/soundpost1682/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/soundpost1682/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/soundpost1682/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/soundpost1682/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -419,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/soundpost1682/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/soundpost1682/leetcode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
