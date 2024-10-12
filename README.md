@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/soundpost1682/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1395-minimum-time-visiting-all-points](https://github.com/soundpost1682/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/soundpost1682/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/soundpost1682/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/soundpost1682/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/soundpost1682/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/soundpost1682/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
