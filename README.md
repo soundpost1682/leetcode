@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/soundpost1682/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0649-dota2-senate](https://github.com/soundpost1682/leetcode/tree/master/0649-dota2-senate) |
 | [0822-unique-morse-code-words](https://github.com/soundpost1682/leetcode/tree/master/0822-unique-morse-code-words) |
+| [0851-goat-latin](https://github.com/soundpost1682/leetcode/tree/master/0851-goat-latin) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/soundpost1682/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/soundpost1682/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-delete-columns-to-make-sorted](https://github.com/soundpost1682/leetcode/tree/master/0981-delete-columns-to-make-sorted) |
