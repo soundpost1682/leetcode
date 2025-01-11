@@ -1,3 +1,5 @@
 class Solution:
     def minElement(self, nums: List[int]) -> int:
-        return min(sum(int(j) for j in str(i)) for i in nums)
+        tmp = lambda n : sum(int(j) for j in str(n))
+        return min(map(tmp, nums))
+
