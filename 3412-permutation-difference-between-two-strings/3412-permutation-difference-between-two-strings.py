@@ -1,10 +1,9 @@
 class Solution:
     def findPermutationDifference(self, s: str, t: str) -> int:
-        answer= {}
+        tmp= {}
         for i in range(len(t)):
-            answer[t[i]] = i
-        tmp = 0
+            tmp[t[i]] = i
+        answer = 0
         for i in range(len(s)):
-            tmp += abs(i-answer[s[i]])
-        return tmp
-        
+            answer += abs(i-tmp[s[i]])
+        return answer
