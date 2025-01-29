@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/soundpost1682/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/soundpost1682/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/soundpost1682/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3412-permutation-difference-between-two-strings](https://github.com/soundpost1682/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/soundpost1682/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/soundpost1682/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Matrix
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/soundpost1682/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/soundpost1682/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/soundpost1682/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3412-permutation-difference-between-two-strings](https://github.com/soundpost1682/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Stack
 |  |
 | ------- |
