@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/soundpost1682/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/soundpost1682/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3533-snake-in-matrix](https://github.com/soundpost1682/leetcode/tree/master/3533-snake-in-matrix) |
+| [3636-check-balanced-string](https://github.com/soundpost1682/leetcode/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
 | ------- |
