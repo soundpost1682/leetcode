@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/soundpost1682/leetcode/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/soundpost1682/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/soundpost1682/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2886-faulty-keyboard](https://github.com/soundpost1682/leetcode/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/soundpost1682/leetcode/tree/master/3226-minimum-number-game) |
 | [3533-snake-in-matrix](https://github.com/soundpost1682/leetcode/tree/master/3533-snake-in-matrix) |
 ## Two Pointers
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/soundpost1682/leetcode/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/soundpost1682/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/soundpost1682/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2886-faulty-keyboard](https://github.com/soundpost1682/leetcode/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/soundpost1682/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/soundpost1682/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/soundpost1682/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
