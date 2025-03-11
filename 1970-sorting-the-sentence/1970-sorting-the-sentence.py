@@ -1,12 +1,8 @@
 class Solution:
     def sortSentence(self, s: str) -> str:
-        tmp = s.split(' ')
-        def number(s):
-            return s[-1]
-        tmp.sort(key = number)
-        def del_num(s):
-            return s[:-1]
-        fine = map(del_num, tmp)    
-        return ' '.join(fine)
-
-        
+        tmp = [i[-1] + i[:-1] for i in s.split()]
+        tmp.sort()
+        ans = ''
+        for i in tmp:
+            ans += i[1:] + ' '
+        return ans[:-1]
