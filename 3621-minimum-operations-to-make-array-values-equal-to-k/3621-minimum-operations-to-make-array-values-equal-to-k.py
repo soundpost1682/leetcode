@@ -1,7 +1,10 @@
 class Solution:
     def minOperations(self, nums: List[int], k: int) -> int:
-        if k > min(nums):return -1
-        saw= set(nums)
-        tmp = len(saw)
-        if k in saw: return tmp-1
-        else: return tmp
+        H =0
+        tmp=101
+        for i in nums:
+            H |= 1<<i
+            tmp = min(i, tmp)
+        if tmp < k: return -1
+        ans = H.bit_count()
+        return ans-1 if tmp == k else ans
