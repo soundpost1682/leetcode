@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/soundpost1682/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1395-minimum-time-visiting-all-points](https://github.com/soundpost1682/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1396-count-servers-that-communicate](https://github.com/soundpost1682/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/soundpost1682/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/soundpost1682/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/soundpost1682/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/soundpost1682/leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/soundpost1682/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0944-smallest-range-i](https://github.com/soundpost1682/leetcode/tree/master/0944-smallest-range-i) |
 | [1395-minimum-time-visiting-all-points](https://github.com/soundpost1682/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/soundpost1682/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/soundpost1682/leetcode/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/soundpost1682/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/soundpost1682/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
