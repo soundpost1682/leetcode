@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/soundpost1682/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/soundpost1682/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/soundpost1682/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2048-build-array-from-permutation](https://github.com/soundpost1682/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/soundpost1682/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/soundpost1682/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/soundpost1682/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/soundpost1682/leetcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/soundpost1682/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/soundpost1682/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2048-build-array-from-permutation](https://github.com/soundpost1682/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/soundpost1682/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/soundpost1682/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/soundpost1682/leetcode/tree/master/2428-equal-row-and-column-pairs) |
