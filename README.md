@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/soundpost1682/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/soundpost1682/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/soundpost1682/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/soundpost1682/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Graph
 |  |
 | ------- |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/soundpost1682/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/soundpost1682/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/soundpost1682/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/soundpost1682/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-find-the-number-of-good-pairs-i](https://github.com/soundpost1682/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/soundpost1682/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/soundpost1682/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/soundpost1682/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Matrix
 |  |
 | ------- |
