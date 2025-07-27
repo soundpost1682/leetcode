@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/soundpost1682/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/soundpost1682/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/soundpost1682/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/soundpost1682/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/soundpost1682/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/soundpost1682/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/soundpost1682/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
